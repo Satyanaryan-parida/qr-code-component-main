@@ -26,7 +26,7 @@ It features a clean, responsive card layout displaying a QR code with descriptiv
 
 ### Screenshot
 
-![QR Code Component Screenshot](./screenshot.png)
+![QR Code Component Screenshot](./images/screenshot.png)
 
 **Key Features:**  
 - Fully responsive card layout  
